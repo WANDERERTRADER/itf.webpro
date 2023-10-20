@@ -1,0 +1,33 @@
+h1 {
+    color: red;
+    margin-left: 20px;
+    text-align: center;
+    font-size: 5cm;
+    }
+h2 {
+    color: gold;
+        margin-left: 20px;
+        text-align: center;
+        font-size: 5cm;
+    }
+img {
+    border: 5px solid seagreen;
+    }
+body{
+    text-align: center;
+    background-color: black;
+    font-family: 'Anuphan', sans-serif;
+    }
+p {color: chartreuse;}
+div {color: aquamarine;}
+a {color: fuchsia;}
+.gg {background-color: tomato;
+    color: white;
+    border: 10px solid gold;
+    margin: 20px;
+    margin-left: 600px;
+    margin-right: 600px;
+    padding: 20px;
+    border-radius: 10px;
+    }
+
